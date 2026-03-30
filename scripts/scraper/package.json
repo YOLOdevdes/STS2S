@@ -1,0 +1,16 @@
+{
+  "name": "sts2-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "scrape": "npx tsx src/scraper.ts",
+    "probe": "npx tsx src/graphql-probe.ts"
+  },
+  "dependencies": {
+    "playwright": "^1.58.2"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.8.3"
+  }
+}
