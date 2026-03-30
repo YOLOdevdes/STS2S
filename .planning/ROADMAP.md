@@ -30,7 +30,11 @@ Decimal phases appear between their surrounding integers in numeric order.
   2. The scraper validates its own output — it fails loudly if the card count falls below 400 or required fields are missing
   3. A GitHub Actions cron job re-scrapes Mobalytics on a schedule and commits updated cards.json when card data changes
   4. The GraphQL endpoint access strategy (direct POST vs Apollo state extraction vs Playwright) is decided and implemented based on validated testing
-**Plans**: TBD
+**Plans**: 2 plans
+
+Plans:
+- [ ] 01-01-PLAN.md — Scraper: GraphQL probe + implementation + validated cards.json
+- [ ] 01-02-PLAN.md — CI pipeline: GitHub Actions cron auto-refresh workflow
 
 ### Phase 2: App Shell
 **Goal**: The React PWA boots, loads card data from cards.json, caches it, and persists character selection
