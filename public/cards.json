@@ -238,8 +238,8 @@
     "cost": 2,
     "type": "Attack",
     "rarity": "Common",
-    "description": "Deal 17 damage. Exhaust the top card of your Draw Pile.",
-    "upgraded_description": "Deal 22 damage. Exhaust the top card of your Draw Pile.",
+    "description": "Deal 18 damage. Exhaust 1 card at random.",
+    "upgraded_description": "Deal 24 damage. Exhaust 1 card at random.",
     "characters": [
       "ironclad"
     ],
@@ -285,8 +285,8 @@
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon",
-    "description": "Whenever you play a card that costs or more, gain 3 Block.",
-    "upgraded_description": "Whenever you play a card that",
+    "description": "Whenever you play a card that costs 2 Energy or more, gain 4 Block.",
+    "upgraded_description": "Whenever you play a card that costs 2 Energy or more, gain 6 Block.",
     "characters": [
       "necrobinder"
     ],
@@ -426,8 +426,8 @@
     "cost": 0,
     "type": "Attack",
     "rarity": "Basic",
-    "description": "2 Deal 7 damage. Apply 1 Weak. Apply 1 Vulnerable.",
-    "upgraded_description": "Apply 1 Weak. Apply 1 Vulnerable.",
+    "description": "Deal 8 damage. Apply 1 Weak. Apply 1 Vulnerable.",
+    "upgraded_description": "Deal 12 damage. Apply 1 Weak. Apply 1 Vulnerable.",
     "characters": [
       "regent"
     ],
@@ -488,8 +488,8 @@
     "cost": 1,
     "type": "Attack",
     "rarity": "Common",
-    "description": "Sly. Deal 7 damage to ALL enemies.",
-    "upgraded_description": "Deal 9 damage to ALL enemies.",
+    "description": "Sly. Deal 6 damage to ALL enemies.",
+    "upgraded_description": "Sly. Deal 8 damage to ALL enemies.",
     "characters": [
       "silent"
     ],
@@ -556,7 +556,7 @@
     "type": "Skill",
     "rarity": "Common",
     "description": "Gain 8 Block. Add a Soul into your Draw Pile.",
-    "upgraded_description": "Add a Soul+ into your Draw Pile.",
+    "upgraded_description": "Gain 11 Block. Add a Soul into your Draw Pile.",
     "characters": [
       "necrobinder"
     ],
@@ -982,8 +982,8 @@
     "cost": 1,
     "type": "Attack",
     "rarity": "Common",
-    "description": "Deal 8 damage. Add Ethereal to a card in your Hand.",
-    "upgraded_description": "Deal 11 damage. Add Ethereal to a card in your Hand.",
+    "description": "Deal 9 damage. Add Ethereal to a card in your Hand.",
+    "upgraded_description": "Deal 12 damage. Add Ethereal to a card in your Hand.",
     "characters": [
       "necrobinder"
     ],
@@ -1752,8 +1752,8 @@
     "cost": 1,
     "type": "Skill",
     "rarity": "Common",
-    "description": "Apply 2 Vulnerable.",
-    "upgraded_description": "Apply 3 Vulnerable.",
+    "description": "Apply 3 Vulnerable. Exhaust.",
+    "upgraded_description": "Apply 4 Vulnerable. Exhaust.",
     "characters": [
       "ironclad"
     ],
@@ -1857,7 +1857,7 @@
     "type": "Skill",
     "rarity": "Common",
     "description": "Draw 3 cards. Discard 1 card.",
-    "upgraded_description": "Discard 1 card.",
+    "upgraded_description": "Draw 4 cards. Discard 1 card.",
     "characters": [
       "silent"
     ],
@@ -1987,7 +1987,7 @@
     "type": "Skill",
     "rarity": "Uncommon",
     "description": "Gain 2 Energy.",
-    "upgraded_description": "Whenever you play a Colorless card, gain 1 Strength.",
+    "upgraded_description": "Gain 3 Energy.",
     "characters": [
       "regent"
     ],
@@ -2043,8 +2043,8 @@
     "cost": 0,
     "type": "Skill",
     "rarity": "Common",
-    "description": "Gain 3 Dexterity this turn.",
-    "upgraded_description": "Gain 5 Dexterity this turn.",
+    "description": "Gain 2 Dexterity this turn.",
+    "upgraded_description": "Gain 3 Dexterity this turn.",
     "characters": [
       "silent"
     ],
@@ -2085,8 +2085,8 @@
     "cost": 1,
     "type": "Power",
     "rarity": "Rare",
-    "description": "Whenever you play a Colorless card, gain 1 Strength.",
-    "upgraded_description": "Whenever you play a Colorless card, gain 1 Strength.",
+    "description": "Whenever you create a card, gain 1 Strength.",
+    "upgraded_description": "Innate. Whenever you create a card, gain 1 Strength.",
     "characters": [
       "regent"
     ],
@@ -2234,11 +2234,11 @@
   {
     "id": "banshees-cry",
     "name": "Banshee's Cry",
-    "cost": 6,
+    "cost": 9,
     "type": "Attack",
     "rarity": "Rare",
-    "description": "Deal 33 damage to ALL enemies. Costs 1 Necrobinder Energy less for each Ethereal card played this combat.",
-    "upgraded_description": "Cry+ 6 Deal 39 damage to ALL enemies. Costs less for each Ethereal card played this combat.",
+    "description": "Deal 33 damage to ALL enemies. Costs 2 Energy less for each Ethereal card played this combat.",
+    "upgraded_description": "Deal 33 damage to ALL enemies. Costs 2 Energy less for each Ethereal card played this combat.",
     "characters": [
       "necrobinder"
     ],
@@ -2406,10 +2406,10 @@
     "id": "begone",
     "name": "BEGONE!",
     "cost": 1,
-    "type": "Attack",
+    "type": "Skill",
     "rarity": "Common",
-    "description": "Deal 4 damage. Choose a card in your Hand to Transform into Minion Dive Bomb.",
-    "upgraded_description": "EGONE!+ 1 Deal 5 damage. Choose a card in your Hand to Transform into Minion Dive Bomb+.",
+    "description": "Choose a card in your Hand to Transform into Minion Strike.",
+    "upgraded_description": "Choose a card in your Hand to Transform into Minion Strike+.",
     "characters": [
       "regent"
     ],
@@ -2501,8 +2501,8 @@
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare",
-    "description": "This turn, whenever you play an Attack, gain 2 Strength this turn.",
-    "upgraded_description": "Draw 2 cards.",
+    "description": "Add 2 Inky Shivs into your Hand.",
+    "upgraded_description": "Add 3 Inky Shivs into your Hand.",
     "characters": [
       "silent"
     ],
@@ -2649,11 +2649,11 @@
   {
     "id": "borrowed-time",
     "name": "Borrowed Time",
-    "cost": 0,
+    "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon",
-    "description": "Apply 3 Doom to yourself. Gain 1 Energy.",
-    "upgraded_description": "Time+ 0 Apply 3 Doom to yourself. Gain .",
+    "description": "Gain 4 Energy. Cards cost an additional 1 Energy this turn.",
+    "upgraded_description": "Gain 6 Energy. Cards cost an additional 1 Energy this turn.",
     "characters": [
       "necrobinder"
     ],
@@ -2722,11 +2722,11 @@
   {
     "id": "break",
     "name": "Break",
-    "cost": 2,
+    "cost": 1,
     "type": "Attack",
     "rarity": "Special",
     "description": "Deal 20 damage. Apply 5 Vulnerable.",
-    "upgraded_description": "Apply 7 Vulnerable.",
+    "upgraded_description": "Deal 30 damage. Apply 7 Vulnerable.",
     "characters": [
       "ironclad"
     ],
@@ -2847,11 +2847,11 @@
   {
     "id": "bundle-of-joy",
     "name": "Bundle of Joy",
-    "cost": 2,
+    "cost": 1,
     "type": "Skill",
     "rarity": "Rare",
     "description": "Add 3 random Colorless cards into your Hand. Exhaust.",
-    "upgraded_description": "Joy+ 2 Add 4 random Colorless cards into your Hand. Exhaust.",
+    "upgraded_description": "Add 4 random Colorless cards into your Hand. Exhaust.",
     "characters": [
       "regent"
     ],
@@ -3116,7 +3116,7 @@
     "type": "Attack",
     "rarity": "Common",
     "description": "Deal 6 damage 3 times.",
-    "upgraded_description": "Might+ 2 Deal 8 damage 3 times.",
+    "upgraded_description": "Deal 6 damage 4 times.",
     "characters": [
       "regent"
     ],
@@ -3178,8 +3178,8 @@
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon",
-    "description": "Choose 2 cards in your Draw Pile to Transform into Minion Strikes.",
-    "upgraded_description": "HARGE!!+ 1 Choose 2 cards in your Draw Pile to Transform into Minion Strikes+.",
+    "description": "Choose 2 cards in your Draw Pile to Transform into Minion Dive Bombs.",
+    "upgraded_description": "Choose 2 cards in your Draw Pile to Transform into Minion Dive Bombs+.",
     "characters": [
       "regent"
     ],
@@ -3345,8 +3345,8 @@
     "cost": 0,
     "type": "Attack",
     "rarity": "Common",
-    "description": "Deal 9 damage. Add a Debris into your Hand.",
-    "upgraded_description": "Deal 12 damage. Add a Debris into your Hand.",
+    "description": "Deal 11 damage. Add a Debris into your Hand.",
+    "upgraded_description": "Deal 15 damage. Add a Debris into your Hand.",
     "characters": [
       "regent"
     ],
@@ -3367,7 +3367,7 @@
     "type": "Skill",
     "rarity": "Rare",
     "description": "Gain 5 Block. You receive 50% less damage from Vulnerable enemies this turn.",
-    "upgraded_description": "You receive 50% less damage from Vulnerable enemies this turn.",
+    "upgraded_description": "Gain 8 Block. You receive 50% less damage from Vulnerable enemies this turn.",
     "characters": [
       "ironclad"
     ],
@@ -3553,8 +3553,8 @@
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon",
-    "description": "Gain 1 Strength for each Vulnerable on the enemy.",
-    "upgraded_description": "Gain 1 Strength for each Vulnerable on the enemy.",
+    "description": "Apply 1 Vulnerable. Gain 1 Strength for each Vulnerable on the enemy. Exhaust.",
+    "upgraded_description": "Apply 2 Vulnerable. Gain 1 Strength for each Vulnerable on the enemy. Exhaust.",
     "characters": [
       "ironclad"
     ],
@@ -3621,8 +3621,8 @@
     "cost": 2,
     "type": "Skill",
     "rarity": "Uncommon",
-    "description": "Gain for each Attack in your Hand.",
-    "upgraded_description": "Gain for each Attack in your Hand.",
+    "description": "Gain 1 Energy for each Attack in your Hand. You cannot gain additional Energy this turn.",
+    "upgraded_description": "Gain 1 Energy for each Attack in your Hand. You cannot gain additional Energy this turn.",
     "characters": [
       "ironclad"
     ],
@@ -3689,8 +3689,8 @@
     "cost": 2,
     "type": "Attack",
     "rarity": "Uncommon",
-    "description": "Deal 5 damage twice. Gain 2 Strength. The enemy gains 1 Strength.",
-    "upgraded_description": "Gain 3 Strength. The enemy gains 1 Strength.",
+    "description": "Deal 5 damage twice. Gain 3 Strength. The enemy gains 1 Strength.",
+    "upgraded_description": "Deal 6 damage twice. Gain 4 Strength. The enemy gains 1 Strength.",
     "characters": [
       "ironclad"
     ],
@@ -3731,8 +3731,8 @@
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon",
-    "description": "If you Exhausted a card this turn, gain 1 Energy.",
-    "upgraded_description": "If you Exhausted a card this turn, gain.",
+    "description": "If you Exhausted a card this turn, gain 3 Energy. Exhaust.",
+    "upgraded_description": "If you Exhausted a card this turn, gain 4 Energy. Exhaust.",
     "characters": [
       "ironclad"
     ],
@@ -3745,27 +3745,6 @@
       }
     ],
     "image_url": "https://cdn.mobalytics.gg/assets/sts2/images/cards/new/forgotten-ritual.webp"
-  },
-  {
-    "id": "grapple",
-    "name": "Grapple",
-    "cost": 1,
-    "type": "Attack",
-    "rarity": "Uncommon",
-    "description": "Deal 7 damage. Whenever you gain Block this turn, deal 5 damage to the enemy.",
-    "upgraded_description": "Whenever you gain Block this turn, deal 7 damage to the enemy.",
-    "characters": [
-      "ironclad"
-    ],
-    "tier": "C",
-    "keywords": [
-      {
-        "id": "block",
-        "label": "Block",
-        "category": "tag"
-      }
-    ],
-    "image_url": "https://cdn.mobalytics.gg/assets/sts2/images/cards/new/grapple.webp"
   },
   {
     "id": "havoc",
@@ -3794,8 +3773,8 @@
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon",
-    "description": "Lose 2 HP. Deal 14 damage.",
-    "upgraded_description": "Deal 19 damage.",
+    "description": "Lose 2 HP. Deal 15 damage.",
+    "upgraded_description": "Lose 2 HP. Deal 20 damage.",
     "characters": [
       "ironclad"
     ],
@@ -4270,8 +4249,8 @@
     "cost": 0,
     "type": "Attack",
     "rarity": "Uncommon",
-    "description": "Deal 6 damage. If you lost HP this turn, draw 1 card.",
-    "upgraded_description": "If you lost HP this turn, draw 1 card.",
+    "description": "Deal 5 damage. If you lost HP this turn, hits 2 times.",
+    "upgraded_description": "Deal 5 damage. If you lost HP this turn, hits 3 times.",
     "characters": [
       "ironclad"
     ],
@@ -4312,8 +4291,8 @@
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare",
-    "description": "Exhaust your Hand. Draw a card for each card Exhausted. Exhaust.",
-    "upgraded_description": "DCost changes from 1 to 0",
+    "description": "Exhaust your Hand. Add 1 random card into your Hand for each card Exhausted.",
+    "upgraded_description": "Exhaust your Hand. Add 1 random Upgraded card into your Hand for each card Exhausted.",
     "characters": [
       "ironclad"
     ],
@@ -4593,7 +4572,7 @@
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare",
-    "description": "Whenever you draw a card this turn, apply 3 Poison to ALL enemies.",
+    "description": "Whenever you draw a card this turn, apply 2 Poison to ALL enemies.",
     "upgraded_description": "Whenever you draw a card this turn, apply 3 Poison to ALL enemies.",
     "characters": [
       "silent"
@@ -4880,8 +4859,8 @@
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon",
-    "description": "Deal 6 damage to ALL enemies. If the last card you played this turn was a Skill, apply 1 Weak to ALL enemies.",
-    "upgraded_description": "If the last card you played this turn was a Skill, apply 2 Weak to ALL enemies.",
+    "description": "Deal 7 damage. If you have 5 or more other cards in your Hand, hits an additional time.",
+    "upgraded_description": "Deal 9 damage. If you have 5 or more other cards in your Hand, hits an additional time.",
     "characters": [
       "silent"
     ],
@@ -4923,7 +4902,7 @@
     "type": "Attack",
     "rarity": "Rare",
     "description": "Can only be played if there are no cards in your Draw Pile. Deal 50 damage to ALL enemies.",
-    "upgraded_description": "Deal 60 damage to ALL enemies.",
+    "upgraded_description": "Can only be played if there are no cards in your Draw Pile. Deal 75 damage to ALL enemies.",
     "characters": [
       "silent"
     ],
@@ -5037,8 +5016,8 @@
     "cost": 1,
     "type": "Attack",
     "rarity": "Common",
-    "description": "Deal 7 damage. Add 1 Shiv into your Hand.",
-    "upgraded_description": "Add 1 Shiv into your Hand.",
+    "description": "Deal 3 damage. Add 2 Shivs into your Hand.",
+    "upgraded_description": "Deal 6 damage. Add 2 Shivs into your Hand.",
     "characters": [
       "silent"
     ],
@@ -5105,8 +5084,8 @@
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon",
-    "description": "Deal 8 damage. Deals 4 additional damage for each card discarded this turn.",
-    "upgraded_description": "Deals 5 additional damage for each card discarded this turn.",
+    "description": "Deal 9 damage. Deals 4 additional damage for each card discarded this turn.",
+    "upgraded_description": "Deal 11 damage. Deals 5 additional damage for each card discarded this turn.",
     "characters": [
       "silent"
     ],
@@ -5252,8 +5231,8 @@
     "cost": 3,
     "type": "Attack",
     "rarity": "Uncommon",
-    "description": "Deal 17 damage. Costs 1 less for each Skill played this turn.",
-    "upgraded_description": "Deal 22 damage. Costs 1 less for each Skill played this turn.",
+    "description": "Deal 15 damage. Costs 1 less Energy for each Skill played this turn.",
+    "upgraded_description": "Deal 19 damage. Costs 1 less Energy for each Skill played this turn.",
     "characters": [
       "silent"
     ],
@@ -5410,7 +5389,7 @@
     "type": "Power",
     "rarity": "Rare",
     "description": "Whenever you play a card, deal 4 damage to a random enemy.",
-    "upgraded_description": "Whenever you play a card, deal 4 damage to a random enemy.",
+    "upgraded_description": "Whenever you play a card, deal 6 damage to a random enemy.",
     "characters": [
       "silent"
     ],
@@ -5477,8 +5456,8 @@
     "cost": "X",
     "type": "Attack",
     "rarity": "Uncommon",
-    "description": "Deal 7 damage X times.",
-    "upgraded_description": "Deal 10 damage X times.",
+    "description": "Deal 8 damage X times.",
+    "upgraded_description": "Deal 11 damage X times.",
     "characters": [
       "silent"
     ],
@@ -5556,7 +5535,7 @@
     "type": "Power",
     "rarity": "Uncommon",
     "description": "Whenever you draw a card during your turn, deal 2 damage to ALL enemies.",
-    "upgraded_description": "Whenever you draw a card during your turn, deal 2 damage to ALL enemies.",
+    "upgraded_description": "Innate. Whenever you draw a card during your turn, deal 2 damage to ALL enemies.",
     "characters": [
       "silent"
     ],
@@ -5748,8 +5727,8 @@
     "cost": 2,
     "type": "Skill",
     "rarity": "Common",
-    "description": "Sly. Gain 9 Block.",
-    "upgraded_description": "Gain 12 Block.",
+    "description": "Sly. Gain 6 Block.",
+    "upgraded_description": "Sly. Gain 8 Block.",
     "characters": [
       "silent"
     ],
@@ -6430,8 +6409,8 @@
     "cost": 0,
     "type": "Skill",
     "rarity": "Common",
-    "description": "Gain 2 Focus this turn.",
-    "upgraded_description": "Gain 3 Focus this turn.",
+    "description": "Gain 2 Focus this turn. Exhaust.",
+    "upgraded_description": "Gain 2 Focus this turn.",
     "characters": [
       "defect"
     ],
@@ -6888,8 +6867,8 @@
     "cost": 2,
     "type": "Attack",
     "rarity": "Uncommon",
-    "description": "Deal 13 damage. Draw 1 card. When a Status card is created, reduce this card's cost to 0 this turn.",
-    "upgraded_description": "Draw 2 cards. When a Status card is created, reduce this card's",
+    "description": "Deal 13 damage. Draw 1 card. Whenever you create a Status, reduce this card's cost to 0 Energy until played.",
+    "upgraded_description": "Deal 14 damage. Draw 2 cards. Whenever you create a Status, reduce this card's cost to 0 Energy until played.",
     "characters": [
       "defect"
     ],
@@ -7382,11 +7361,11 @@
   {
     "id": "voltaic",
     "name": "Voltaic",
-    "cost": 2,
+    "cost": 3,
     "type": "Skill",
     "rarity": "Rare",
-    "description": "Channel Lightning equal to the Lightning already Channeled this combat.",
-    "upgraded_description": "Gain .",
+    "description": "Channel Lightning equal to the Lightning already Channeled this combat. Exhaust.",
+    "upgraded_description": "Channel Lightning equal to the Lightning already Channeled this combat.",
     "characters": [
       "defect"
     ],
@@ -7489,8 +7468,8 @@
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon",
-    "description": "Deal 7 damage. Vulnerable and Weak are twice as effective against the enemy for the next 3 turns.",
-    "upgraded_description": "Vulnerable and Weak are twice as effective against the enemy for the next 4 turns.",
+    "description": "Deal 10 damage. Vulnerable and Weak are twice as effective against the enemy for the next 3 turns.",
+    "upgraded_description": "Deal 12 damage. Vulnerable and Weak are twice as effective against the enemy for the next 4 turns.",
     "characters": [
       "necrobinder"
     ],
@@ -7511,7 +7490,7 @@
     "type": "Skill",
     "rarity": "Common",
     "description": "Ethereal. Gain 6 Block. Apply 1 Weak.",
-    "upgraded_description": "Gain 7 Block. Apply 2 Weak.",
+    "upgraded_description": "Ethereal. Gain 9 Block. Apply 1 Weak.",
     "characters": [
       "necrobinder"
     ],
@@ -7604,8 +7583,8 @@
     "cost": "X",
     "type": "Skill",
     "rarity": "Uncommon",
-    "description": "Summon 3 X times. Add X Souls into your Draw Pile.",
-    "upgraded_description": "Add X Souls+ into your Draw Pile.",
+    "description": "Summon 3 X times. Add X Souls into your Draw Pile. Exhaust.",
+    "upgraded_description": "Summon 4 X times. Add X Souls+ into your Draw Pile. Exhaust.",
     "characters": [
       "necrobinder"
     ],
@@ -8221,11 +8200,11 @@
   {
     "id": "seance",
     "name": "Seance",
-    "cost": 0,
+    "cost": 1,
     "type": "Skill",
     "rarity": "Rare",
     "description": "Ethereal. Transform a card in your Draw Pile into Soul.",
-    "upgraded_description": "Draw Pile into Soul+.",
+    "upgraded_description": "Ethereal. Transform a card in your Draw Pile into Soul.",
     "characters": [
       "necrobinder"
     ],
@@ -8789,8 +8768,8 @@
     "cost": 1,
     "type": "Skill",
     "rarity": "Common",
-    "description": "Gain 7 Block. Gain 1 Energy.",
-    "upgraded_description": "Gain 10 Block. Gain .",
+    "description": "Gain 8 Block. Gain 1 Energy.",
+    "upgraded_description": "Gain 11 Block. Gain 1 Energy.",
     "characters": [
       "regent"
     ],
@@ -8862,8 +8841,8 @@
     "cost": 2,
     "type": "Skill",
     "rarity": "Common",
-    "description": "Gain 11 Block. Next turn, gain 4 Block.",
-    "upgraded_description": "Next turn, gain 6 Block.",
+    "description": "Gain 11 Block. Next turn, gain 5 Block.",
+    "upgraded_description": "Gain 13 Block. Next turn, gain 7 Block.",
     "characters": [
       "regent"
     ],
@@ -8883,8 +8862,8 @@
     "cost": 1,
     "type": "Skill",
     "rarity": "Common",
-    "description": "Gain 1 Energy. Draw 2 cards.",
-    "upgraded_description": "Draw 2 cards.",
+    "description": "Gain 1 Star. Draw 1 card. Next turn, draw 1 card.",
+    "upgraded_description": "Gain 2 Stars. Draw 1 card. Next turn, draw 1 card.",
     "characters": [
       "regent"
     ],
@@ -8987,8 +8966,8 @@
     "cost": 2,
     "type": "Attack",
     "rarity": "Rare",
-    "description": "Deal 17 damage. Choose a Colorless card in your Hand. Add a copy of that card into your Hand.",
-    "upgraded_description": "Add a copy of that card into your Hand.",
+    "description": "Deal 20 damage. Choose a Colorless card in your Hand. Add a copy of that card into your Hand.",
+    "upgraded_description": "Deal 25 damage. Choose a Colorless card in your Hand. Add a copy of that card into your Hand.",
     "characters": [
       "regent"
     ],
@@ -9008,8 +8987,8 @@
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare",
-    "description": "Gain 9 Block. At the end of your turn, if this is on top of your Draw Pile, play it.",
-    "upgraded_description": "At the end of your turn, if this is on top of your Draw Pile, play it.",
+    "description": "Gain 10 Block. At the end of your turn, if this is on top of your Draw Pile, play it.",
+    "upgraded_description": "Gain 13 Block. At the end of your turn, if this is on top of your Draw Pile, play it.",
     "characters": [
       "regent"
     ],
@@ -9029,8 +9008,8 @@
     "cost": 4,
     "type": "Attack",
     "rarity": "Uncommon",
-    "description": "Deal 24 damage. Whenever you draw this card, reduce its cost by 1.",
-    "upgraded_description": "Whenever you draw this card, reduce its",
+    "description": "Deal 27 damage. Whenever you draw this card, reduce its cost by 1.",
+    "upgraded_description": "Deal 35 damage. Whenever you draw this card, reduce its cost by 1.",
     "characters": [
       "regent"
     ],
@@ -9316,8 +9295,8 @@
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon",
-    "description": "Whenever you play Sovereign Blade, gain 6 Block.",
-    "upgraded_description": "Whenever you play Sovereign Blade, gain 6 Block.",
+    "description": "Whenever you play Sovereign Blade, gain 10 Block.",
+    "upgraded_description": "Whenever you play Sovereign Blade, gain 14 Block.",
     "characters": [
       "regent"
     ],
@@ -9358,8 +9337,8 @@
     "cost": 1,
     "type": "Skill",
     "rarity": "Common",
-    "description": "Gain 8 Block. Gain 2 Vigor.",
-    "upgraded_description": "Gain 3 Vigor.",
+    "description": "Gain 9 Block. Gain 2 Vigor.",
+    "upgraded_description": "Gain 11 Block. Gain 3 Vigor.",
     "characters": [
       "regent"
     ],
@@ -9489,8 +9468,8 @@
     "cost": 1,
     "type": "Skill",
     "rarity": "Common",
-    "description": "Forge 6. Next turn, gain 1 Energy.",
-    "upgraded_description": "Next turn, gain .",
+    "description": "Forge 9. Next turn, gain 1 Energy.",
+    "upgraded_description": "Forge 13. Next turn, gain 1 Energy.",
     "characters": [
       "regent"
     ],
@@ -9662,8 +9641,8 @@
     "cost": 1,
     "type": "Attack",
     "rarity": "Common",
-    "description": "Deal 8 damage. Gain 1 Energy.",
-    "upgraded_description": "Deal 9 damage. Gain .",
+    "description": "Deal 9 damage. Gain 1 Star.",
+    "upgraded_description": "Deal 10 damage. Gain 2 Stars.",
     "characters": [
       "regent"
     ],
@@ -9688,8 +9667,8 @@
     "cost": 1,
     "type": "Skill",
     "rarity": "Common",
-    "description": "Forge 10.",
-    "upgraded_description": "Deal 8 damage.",
+    "description": "Forge 5. Draw 2 cards.",
+    "upgraded_description": "Forge 8. Draw 2 cards.",
     "characters": [
       "regent"
     ],
@@ -9745,8 +9724,8 @@
     "cost": 2,
     "type": "Power",
     "rarity": "Rare",
-    "description": "Increase the cost of Sovereign Blade by 1. Sovereign Blade now hits an additional time.",
-    "upgraded_description": "DCost changes from 2 to 1",
+    "description": "Sovereign Blade now hits an additional time.",
+    "upgraded_description": "Sovereign Blade now hits an additional time.",
     "characters": [
       "regent"
     ],
@@ -9864,8 +9843,8 @@
     "cost": 3,
     "type": "Power",
     "rarity": "Rare",
-    "description": "End your turn. The first 2 cards you play each turn are free to play.",
-    "upgraded_description": "The first 3 cards you play each turn are free to play.",
+    "description": "Ethereal. End your turn. The first 2 cards you play each turn are free to play.",
+    "upgraded_description": "End your turn. The first 2 cards you play each turn are free to play.",
     "characters": [
       "regent"
     ],
@@ -9885,8 +9864,8 @@
     "cost": 1,
     "type": "Attack",
     "rarity": "Common",
-    "description": "Deal 7 damage. Forge 5.",
-    "upgraded_description": "Forge 7.",
+    "description": "Deal 7 damage. Forge 7.",
+    "upgraded_description": "Deal 9 damage. Forge 9.",
     "characters": [
       "regent"
     ],
@@ -9941,8 +9920,8 @@
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon",
-    "description": "Choose 1 of 3 random cards to add into your Hand. It costs 0 this turn.",
-    "upgraded_description": "Deal 11 damage to ALL enemies.",
+    "description": "Choose 1 of 3 random cards to add into your Hand. It's free to play this turn. Exhaust.",
+    "upgraded_description": "Choose 1 of 3 random cards to add into your Hand. It's free to play this turn.",
     "characters": [
       "colorless"
     ],
@@ -10001,8 +9980,8 @@
     "cost": 3,
     "type": "Power",
     "rarity": "Rare",
-    "description": "Gain 7 Plating.",
-    "upgraded_description": "Gain 9 Plating.",
+    "description": "Gain 9 Plating.",
+    "upgraded_description": "Gain 12 Plating.",
     "characters": [
       "colorless"
     ],
@@ -10076,8 +10055,8 @@
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare",
-    "description": "A random card in your Draw Pile gains Replay 2.",
-    "upgraded_description": "Draw Pile gains Replay 3.",
+    "description": "A random card without Replay in your Draw Pile gains Replay 2.",
+    "upgraded_description": "A random card without Replay in your Draw Pile gains Replay 3.",
     "characters": [
       "colorless"
     ],
@@ -10316,8 +10295,8 @@
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon",
-    "description": "Gain 1 Energy.",
-    "upgraded_description": "Gain .",
+    "description": "Gain 2 Energy. Exhaust.",
+    "upgraded_description": "Gain 3 Stars. Exhaust.",
     "characters": [
       "colorless"
     ],
@@ -10451,8 +10430,8 @@
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon",
-    "description": "Deal 6 damage. Choose 1 of 3 cards in your Draw Pile to add into your Hand.",
-    "upgraded_description": "Choose 1 of 3 cards in your Draw Pile to add into your Hand.",
+    "description": "Deal 9 damage. Choose 1 of 3 cards in your Draw Pile to add into your Hand.",
+    "upgraded_description": "Deal 12 damage. Choose 1 of 3 cards in your Draw Pile to add into your Hand.",
     "characters": [
       "colorless"
     ],
@@ -11108,7 +11087,7 @@
   {
     "id": "minion-dive-bomb",
     "name": "Minion Dive Bomb",
-    "cost": 1,
+    "cost": 0,
     "type": "Attack",
     "rarity": "Special",
     "description": "Deal 13 damage. Exhaust.",
@@ -11141,8 +11120,8 @@
     "cost": 0,
     "type": "Attack",
     "rarity": "Special",
-    "description": "Deal 7 damage. Draw 1 card. Exhaust.",
-    "upgraded_description": "Draw 1 card. Exhaust.",
+    "description": "Deal 6 damage. Draw 1 card. Exhaust.",
+    "upgraded_description": "Deal 9 damage. Draw 1 card. Exhaust.",
     "characters": [
       "colorless"
     ],
@@ -11157,7 +11136,7 @@
     "type": "Attack",
     "rarity": "Special",
     "description": "Deal 10 damage. Put 2 random cards from your Discard Pile into your Hand. Exhaust.",
-    "upgraded_description": "Put 2 random cards from your Discard Pile into your Hand. Exhaust.",
+    "upgraded_description": "Deal 14 damage. Put 3 random cards from your Discard Pile into your Hand. Exhaust.",
     "characters": [
       "colorless"
     ],
@@ -11524,5 +11503,20 @@
     "tier": null,
     "keywords": [],
     "image_url": "https://cdn.mobalytics.gg/assets/sts2/images/cards/new/writhe.webp"
+  },
+  {
+    "id": "not-yet",
+    "name": "Not Yet",
+    "cost": 2,
+    "type": "Skill",
+    "rarity": "Rare",
+    "description": "Heal 10 HP. Exhaust.",
+    "upgraded_description": "Heal 13 HP. Exhaust.",
+    "characters": [
+      "ironclad"
+    ],
+    "tier": null,
+    "keywords": [],
+    "image_url": "https://cdn.mobalytics.gg/assets/sts2/images/cards/new/not-yet.webp"
   }
 ]
