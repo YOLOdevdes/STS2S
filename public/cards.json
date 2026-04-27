@@ -31,7 +31,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "A",
+    "tier": "B",
     "keywords": [
       {
         "id": "flexible",
@@ -243,7 +243,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "D",
+    "tier": "B",
     "keywords": [
       {
         "id": "exhaust",
@@ -1070,7 +1070,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "C",
+    "tier": "S",
     "keywords": [
       {
         "id": "colorless",
@@ -1091,7 +1091,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "D",
+    "tier": "C",
     "keywords": [
       {
         "id": "flexible",
@@ -1127,7 +1127,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "B",
+    "tier": "C",
     "keywords": [
       {
         "id": "sovereign-blade",
@@ -1148,7 +1148,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "colorless",
@@ -1294,7 +1294,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "flexible",
@@ -1330,7 +1330,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "B",
+    "tier": "A",
     "keywords": [
       {
         "id": "flexible",
@@ -1372,7 +1372,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "A",
+    "tier": "S",
     "keywords": [
       {
         "id": "exhaust",
@@ -1480,7 +1480,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "B",
+    "tier": "A",
     "keywords": [
       {
         "id": "exhaust",
@@ -1516,7 +1516,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "B",
+    "tier": "A",
     "keywords": [
       {
         "id": "flexible",
@@ -1537,7 +1537,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "flexible",
@@ -1650,7 +1650,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "B",
+    "tier": "A",
     "keywords": [
       {
         "id": "block",
@@ -1736,7 +1736,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "A",
+    "tier": "C",
     "keywords": [
       {
         "id": "vulnerable",
@@ -1757,7 +1757,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "C",
+    "tier": "S",
     "keywords": [
       {
         "id": "vulnerable",
@@ -1991,7 +1991,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "star",
@@ -2090,7 +2090,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "D",
+    "tier": "C",
     "keywords": [
       {
         "id": "colorless",
@@ -2111,7 +2111,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "exhaust",
@@ -2153,7 +2153,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "B",
+    "tier": "S",
     "keywords": [
       {
         "id": "star",
@@ -2289,7 +2289,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "C",
+    "tier": "D",
     "keywords": [
       {
         "id": "block",
@@ -2413,7 +2413,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "flexible",
@@ -2485,7 +2485,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "star",
@@ -2589,7 +2589,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "A",
+    "tier": "B",
     "keywords": [
       {
         "id": "flexible",
@@ -2704,7 +2704,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "A",
+    "tier": "C",
     "keywords": [
       {
         "id": "bloodletting",
@@ -2730,8 +2730,19 @@
     "characters": [
       "ironclad"
     ],
-    "tier": null,
-    "keywords": [],
+    "tier": "B",
+    "keywords": [
+      {
+        "id": "vulnerable",
+        "label": "Vulnerable",
+        "category": "tag"
+      },
+      {
+        "id": "flexible",
+        "label": "Flexible",
+        "category": "tag"
+      }
+    ],
     "image_url": "https://cdn.mobalytics.gg/assets/sts2/images/cards/new/break.webp"
   },
   {
@@ -2829,7 +2840,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "B",
+    "tier": "S",
     "keywords": [
       {
         "id": "sovereign-blade",
@@ -2855,7 +2866,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "D",
+    "tier": "A",
     "keywords": [
       {
         "id": "colorless",
@@ -3084,7 +3095,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "D",
+    "tier": "C",
     "keywords": [
       {
         "id": "build-around",
@@ -3120,7 +3131,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "D",
+    "tier": "C",
     "keywords": [
       {
         "id": "flexible",
@@ -3183,7 +3194,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "A",
+    "tier": "S",
     "keywords": [
       {
         "id": "flexible",
@@ -3298,7 +3309,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "B",
+    "tier": "A",
     "keywords": [
       {
         "id": "star",
@@ -3350,7 +3361,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "flexible",
@@ -3371,7 +3382,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "A",
+    "tier": "S",
     "keywords": [
       {
         "id": "vulnerable",
@@ -3392,7 +3403,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "A",
+    "tier": "S",
     "keywords": [
       {
         "id": "star",
@@ -3413,7 +3424,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "C",
+    "tier": "D",
     "keywords": [
       {
         "id": "flexible",
@@ -3434,8 +3445,19 @@
     "characters": [
       "ironclad"
     ],
-    "tier": null,
-    "keywords": [],
+    "tier": "A",
+    "keywords": [
+      {
+        "id": "exhaust",
+        "label": "Exhaust",
+        "category": "mechanic"
+      },
+      {
+        "id": "flexible",
+        "label": "Flexible",
+        "category": "tag"
+      }
+    ],
     "image_url": "https://cdn.mobalytics.gg/assets/sts2/images/cards/new/corruption.webp"
   },
   {
@@ -3449,7 +3471,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "A",
+    "tier": "S",
     "keywords": [
       {
         "id": "bloodletting",
@@ -3475,7 +3497,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "A",
+    "tier": "S",
     "keywords": [
       {
         "id": "vulnerable",
@@ -3558,7 +3580,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "D",
+    "tier": "S",
     "keywords": [
       {
         "id": "vulnerable",
@@ -3584,7 +3606,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "D",
+    "tier": "C",
     "keywords": [
       {
         "id": "exhaust",
@@ -3605,7 +3627,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "A",
+    "tier": "B",
     "keywords": [
       {
         "id": "exhaust",
@@ -3626,7 +3648,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "S",
+    "tier": "A",
     "keywords": [
       {
         "id": "flexible",
@@ -3694,7 +3716,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "D",
+    "tier": "C",
     "keywords": [
       {
         "id": "strength",
@@ -3736,7 +3758,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "S",
+    "tier": "B",
     "keywords": [
       {
         "id": "exhaust",
@@ -3757,7 +3779,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "D",
+    "tier": "C",
     "keywords": [
       {
         "id": "build-around",
@@ -3778,7 +3800,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "bloodletting",
@@ -3804,7 +3826,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "A",
+    "tier": "S",
     "keywords": [
       {
         "id": "block",
@@ -3898,7 +3920,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "C",
+    "tier": "D",
     "keywords": [
       {
         "id": "block",
@@ -3919,7 +3941,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "D",
+    "tier": "C",
     "keywords": [
       {
         "id": "flexible",
@@ -4055,7 +4077,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "S",
+    "tier": "C",
     "keywords": [
       {
         "id": "flexible",
@@ -4097,7 +4119,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "A",
+    "tier": "S",
     "keywords": [
       {
         "id": "flexible",
@@ -4160,7 +4182,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "B",
+    "tier": "C",
     "keywords": [
       {
         "id": "flexible",
@@ -4254,7 +4276,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "S",
+    "tier": "B",
     "keywords": [
       {
         "id": "bloodletting",
@@ -4296,7 +4318,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "S",
+    "tier": "A",
     "keywords": [
       {
         "id": "exhaust",
@@ -4379,7 +4401,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "A",
+    "tier": "B",
     "keywords": [
       {
         "id": "vulnerable",
@@ -4405,7 +4427,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "bloodletting",
@@ -4426,7 +4448,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "A",
+    "tier": "B",
     "keywords": [
       {
         "id": "exhaust",
@@ -4452,7 +4474,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "B",
+    "tier": "C",
     "keywords": [
       {
         "id": "exhaust",
@@ -4478,7 +4500,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "strike",
@@ -4504,7 +4526,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "B",
+    "tier": "S",
     "keywords": [
       {
         "id": "block",
@@ -4530,7 +4552,7 @@
     "characters": [
       "ironclad"
     ],
-    "tier": "S",
+    "tier": "C",
     "keywords": [
       {
         "id": "vulnerable",
@@ -8548,7 +8570,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "B",
+    "tier": "C",
     "keywords": [
       {
         "id": "flexible",
@@ -8569,7 +8591,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "D",
+    "tier": "S",
     "keywords": [
       {
         "id": "flexible",
@@ -8590,7 +8612,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "C",
+    "tier": "D",
     "keywords": [
       {
         "id": "star",
@@ -8632,7 +8654,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "star",
@@ -8710,7 +8732,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "S",
+    "tier": "C",
     "keywords": [
       {
         "id": "flexible",
@@ -8773,7 +8795,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "B",
+    "tier": "A",
     "keywords": [
       {
         "id": "star",
@@ -8799,7 +8821,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "S",
+    "tier": "C",
     "keywords": [
       {
         "id": "star",
@@ -8825,7 +8847,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "A",
+    "tier": "B",
     "keywords": [
       {
         "id": "flexible",
@@ -8929,7 +8951,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "D",
+    "tier": "B",
     "keywords": [
       {
         "id": "build-around",
@@ -9013,7 +9035,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "D",
+    "tier": "A",
     "keywords": [
       {
         "id": "build-around",
@@ -9034,7 +9056,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "D",
+    "tier": "B",
     "keywords": [
       {
         "id": "flexible",
@@ -9076,7 +9098,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "D",
+    "tier": "S",
     "keywords": [
       {
         "id": "flexible",
@@ -9133,7 +9155,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "flexible",
@@ -9154,7 +9176,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "colorless",
@@ -9180,8 +9202,19 @@
     "characters": [
       "regent"
     ],
-    "tier": null,
-    "keywords": [],
+    "tier": "S",
+    "keywords": [
+      {
+        "id": "star",
+        "label": "Star",
+        "category": "tag"
+      },
+      {
+        "id": "flexible",
+        "label": "Flexible",
+        "category": "tag"
+      }
+    ],
     "image_url": "https://cdn.mobalytics.gg/assets/sts2/images/cards/new/meteor-shower.webp"
   },
   {
@@ -9237,7 +9270,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "A",
+    "tier": "C",
     "keywords": [
       {
         "id": "star",
@@ -9258,7 +9291,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "star",
@@ -9300,7 +9333,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "D",
+    "tier": "C",
     "keywords": [
       {
         "id": "sovereign-blade",
@@ -9321,7 +9354,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "S",
+    "tier": "A",
     "keywords": [
       {
         "id": "star",
@@ -9342,7 +9375,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "flexible",
@@ -9384,7 +9417,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "C",
+    "tier": "S",
     "keywords": [
       {
         "id": "colorless",
@@ -9405,7 +9438,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "D",
+    "tier": "C",
     "keywords": [
       {
         "id": "flexible",
@@ -9426,7 +9459,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "D",
+    "tier": "A",
     "keywords": [
       {
         "id": "colorless",
@@ -9452,7 +9485,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "star",
@@ -9473,7 +9506,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "D",
+    "tier": "A",
     "keywords": [
       {
         "id": "sovereign-blade",
@@ -9515,7 +9548,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "C",
+    "tier": "D",
     "keywords": [
       {
         "id": "star",
@@ -9536,7 +9569,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "C",
+    "tier": "S",
     "keywords": [
       {
         "id": "star",
@@ -9599,7 +9632,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "A",
+    "tier": "C",
     "keywords": [
       {
         "id": "star",
@@ -9620,7 +9653,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "A",
+    "tier": "C",
     "keywords": [
       {
         "id": "star",
@@ -9646,7 +9679,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "B",
+    "tier": "C",
     "keywords": [
       {
         "id": "star",
@@ -9672,7 +9705,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "D",
+    "tier": "C",
     "keywords": [
       {
         "id": "sovereign-blade",
@@ -9693,7 +9726,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "D",
+    "tier": "C",
     "keywords": [
       {
         "id": "star",
@@ -9750,7 +9783,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "D",
+    "tier": "C",
     "keywords": [
       {
         "id": "build-around",
@@ -9771,8 +9804,19 @@
     "characters": [
       "regent"
     ],
-    "tier": null,
-    "keywords": [],
+    "tier": "S",
+    "keywords": [
+      {
+        "id": "star",
+        "label": "Star",
+        "category": "tag"
+      },
+      {
+        "id": "flexible",
+        "label": "Flexible",
+        "category": "tag"
+      }
+    ],
     "image_url": "https://cdn.mobalytics.gg/assets/sts2/images/cards/new/the-sealed-throne.webp"
   },
   {
@@ -9786,7 +9830,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "star",
@@ -9812,7 +9856,7 @@
     "characters": [
       "regent"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "flexible",
