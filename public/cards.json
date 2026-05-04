@@ -10,7 +10,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "shiv",
@@ -67,7 +67,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "B",
+    "tier": "A",
     "keywords": [
       {
         "id": "shiv",
@@ -160,7 +160,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "B",
+    "tier": "A",
     "keywords": [
       {
         "id": "flexible",
@@ -264,7 +264,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "shiv",
@@ -290,7 +290,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "D",
+    "tier": "S",
     "keywords": [
       {
         "id": "build-around",
@@ -337,7 +337,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "doom",
@@ -405,7 +405,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": null,
+    "tier": "S",
     "keywords": [
       {
         "id": "ethereal",
@@ -493,7 +493,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "B",
+    "tier": "C",
     "keywords": [
       {
         "id": "sly",
@@ -560,7 +560,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "B",
+    "tier": "A",
     "keywords": [
       {
         "id": "souls",
@@ -586,7 +586,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "S",
+    "tier": "D",
     "keywords": [
       {
         "id": "flexible",
@@ -690,7 +690,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "shiv",
@@ -800,7 +800,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "souls",
@@ -826,7 +826,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "C",
+    "tier": "S",
     "keywords": [
       {
         "id": "ethereal",
@@ -873,7 +873,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "A",
+    "tier": "S",
     "keywords": [
       {
         "id": "flexible",
@@ -894,7 +894,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "D",
+    "tier": "A",
     "keywords": [
       {
         "id": "flexible",
@@ -1008,7 +1008,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "B",
+    "tier": "C",
     "keywords": [
       {
         "id": "souls",
@@ -1049,7 +1049,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "flexible",
@@ -1205,7 +1205,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "A",
+    "tier": "C",
     "keywords": [
       {
         "id": "flexible",
@@ -1459,7 +1459,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "D",
+    "tier": "B",
     "keywords": [
       {
         "id": "flexible",
@@ -1594,7 +1594,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "B",
+    "tier": "A",
     "keywords": [
       {
         "id": "poison",
@@ -1819,7 +1819,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "A",
+    "tier": "S",
     "keywords": [
       {
         "id": "sly",
@@ -1887,7 +1887,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "claw",
@@ -1934,7 +1934,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "A",
+    "tier": "S",
     "keywords": [
       {
         "id": "flexible",
@@ -2012,7 +2012,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "claw",
@@ -2048,7 +2048,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "D",
+    "tier": "C",
     "keywords": [
       {
         "id": "flexible",
@@ -2174,7 +2174,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "B",
+    "tier": "A",
     "keywords": [
       {
         "id": "flexible",
@@ -2242,7 +2242,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "C",
+    "tier": "S",
     "keywords": [
       {
         "id": "ethereal",
@@ -2263,7 +2263,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "orbs",
@@ -2506,7 +2506,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "D",
+    "tier": "S",
     "keywords": [
       {
         "id": "shiv",
@@ -2610,7 +2610,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "D",
+    "tier": "C",
     "keywords": [
       {
         "id": "status",
@@ -2636,7 +2636,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "B",
+    "tier": "A",
     "keywords": [
       {
         "id": "flexible",
@@ -2657,7 +2657,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "S",
+    "tier": "A",
     "keywords": [
       {
         "id": "souls",
@@ -2756,7 +2756,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "D",
+    "tier": "C",
     "keywords": [
       {
         "id": "poison",
@@ -2798,11 +2798,16 @@
     "characters": [
       "defect"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "claw",
         "label": "Claw",
+        "category": "tag"
+      },
+      {
+        "id": "flexible",
+        "label": "Flexible",
         "category": "tag"
       }
     ],
@@ -3017,7 +3022,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "A",
+    "tier": "S",
     "keywords": [
       {
         "id": "ethereal",
@@ -3043,7 +3048,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "orbs",
@@ -3152,7 +3157,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "B",
+    "tier": "D",
     "keywords": [
       {
         "id": "orbs",
@@ -3173,7 +3178,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "B",
+    "tier": "A",
     "keywords": [
       {
         "id": "flexible",
@@ -3236,7 +3241,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "A",
+    "tier": "S",
     "keywords": [
       {
         "id": "orbs",
@@ -3283,7 +3288,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "S",
+    "tier": "C",
     "keywords": [
       {
         "id": "osty",
@@ -3335,7 +3340,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "orbs",
@@ -4599,7 +4604,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "A",
+    "tier": "C",
     "keywords": [
       {
         "id": "draw",
@@ -4625,7 +4630,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "flexible",
@@ -4672,7 +4677,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "B",
+    "tier": "C",
     "keywords": [
       {
         "id": "flexible",
@@ -4693,7 +4698,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "D",
+    "tier": "S",
     "keywords": [
       {
         "id": "flexible",
@@ -4714,7 +4719,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "flexible",
@@ -4761,7 +4766,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "A",
+    "tier": "S",
     "keywords": [
       {
         "id": "flexible",
@@ -4865,7 +4870,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "B",
+    "tier": "A",
     "keywords": [
       {
         "id": "build-around",
@@ -4886,7 +4891,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "B",
+    "tier": "D",
     "keywords": [
       {
         "id": "flexible",
@@ -4907,7 +4912,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "A",
+    "tier": "S",
     "keywords": [
       {
         "id": "flexible",
@@ -4970,7 +4975,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "B",
+    "tier": "C",
     "keywords": [
       {
         "id": "sly",
@@ -4996,7 +5001,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "shiv",
@@ -5043,7 +5048,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "B",
+    "tier": "A",
     "keywords": [
       {
         "id": "shiv",
@@ -5069,7 +5074,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "B",
+    "tier": "S",
     "keywords": [
       {
         "id": "flexible",
@@ -5090,7 +5095,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "A",
+    "tier": "S",
     "keywords": [
       {
         "id": "flexible",
@@ -5111,7 +5116,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "C",
+    "tier": "D",
     "keywords": [
       {
         "id": "sly",
@@ -5216,7 +5221,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "D",
+    "tier": "B",
     "keywords": [
       {
         "id": "shiv",
@@ -5305,7 +5310,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "flexible",
@@ -5441,7 +5446,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "D",
+    "tier": "C",
     "keywords": [
       {
         "id": "build-around",
@@ -5462,7 +5467,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "A",
+    "tier": "C",
     "keywords": [
       {
         "id": "flexible",
@@ -5504,7 +5509,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "flexible",
@@ -5525,7 +5530,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "D",
+    "tier": "C",
     "keywords": [
       {
         "id": "poison",
@@ -5561,7 +5566,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "C",
+    "tier": "D",
     "keywords": [
       {
         "id": "draw",
@@ -5582,7 +5587,7 @@
     "characters": [
       "silent"
     ],
-    "tier": null,
+    "tier": "D",
     "keywords": [
       {
         "id": "shiv",
@@ -5629,7 +5634,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "flexible",
@@ -5665,7 +5670,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "S",
+    "tier": "A",
     "keywords": [
       {
         "id": "sly",
@@ -5733,7 +5738,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "A",
+    "tier": "S",
     "keywords": [
       {
         "id": "flexible",
@@ -5775,7 +5780,7 @@
     "characters": [
       "silent"
     ],
-    "tier": "C",
+    "tier": "D",
     "keywords": [
       {
         "id": "shiv",
@@ -5832,7 +5837,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "A",
+    "tier": "C",
     "keywords": [
       {
         "id": "status",
@@ -5921,7 +5926,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "B",
+    "tier": "S",
     "keywords": [
       {
         "id": "orbs",
@@ -5947,7 +5952,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "flexible",
@@ -5968,7 +5973,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "B",
+    "tier": "S",
     "keywords": [
       {
         "id": "orbs",
@@ -6030,7 +6035,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "S",
+    "tier": "B",
     "keywords": [
       {
         "id": "flexible",
@@ -6102,7 +6107,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "claw",
@@ -6123,7 +6128,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "status",
@@ -6170,7 +6175,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "orbs",
@@ -6196,7 +6201,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "B",
+    "tier": "A",
     "keywords": [
       {
         "id": "claw",
@@ -6222,7 +6227,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "S",
+    "tier": "C",
     "keywords": [
       {
         "id": "orbs",
@@ -6295,7 +6300,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "A",
+    "tier": "B",
     "keywords": [
       {
         "id": "orbs",
@@ -6321,7 +6326,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "B",
+    "tier": "A",
     "keywords": [
       {
         "id": "claw",
@@ -6373,7 +6378,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "orbs",
@@ -6394,7 +6399,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "D",
+    "tier": "C",
     "keywords": [
       {
         "id": "build-around",
@@ -6415,7 +6420,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "S",
+    "tier": "B",
     "keywords": [
       {
         "id": "flexible",
@@ -6436,7 +6441,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "D",
+    "tier": "A",
     "keywords": [
       {
         "id": "orbs",
@@ -6483,7 +6488,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "orbs",
@@ -6524,7 +6529,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "status",
@@ -6571,7 +6576,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "B",
+    "tier": "C",
     "keywords": [
       {
         "id": "lightning",
@@ -6592,7 +6597,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "D",
+    "tier": "B",
     "keywords": [
       {
         "id": "orbs",
@@ -6639,7 +6644,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "orbs",
@@ -6712,7 +6717,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "A",
+    "tier": "C",
     "keywords": [
       {
         "id": "orbs",
@@ -6738,7 +6743,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "B",
+    "tier": "A",
     "keywords": [
       {
         "id": "flexible",
@@ -6759,7 +6764,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "status",
@@ -6800,7 +6805,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "A",
+    "tier": "B",
     "keywords": [
       {
         "id": "orbs",
@@ -6826,7 +6831,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "A",
+    "tier": "B",
     "keywords": [
       {
         "id": "flexible",
@@ -6847,7 +6852,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "orbs",
@@ -6894,7 +6899,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "status",
@@ -6957,7 +6962,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "B",
+    "tier": "A",
     "keywords": [
       {
         "id": "orbs",
@@ -6983,7 +6988,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "A",
+    "tier": "C",
     "keywords": [
       {
         "id": "orbs",
@@ -7009,7 +7014,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "build-around",
@@ -7030,7 +7035,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "S",
+    "tier": "B",
     "keywords": [
       {
         "id": "flexible",
@@ -7072,7 +7077,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "S",
+    "tier": "A",
     "keywords": [
       {
         "id": "orbs",
@@ -7134,7 +7139,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "D",
+    "tier": "B",
     "keywords": [
       {
         "id": "build-around",
@@ -7155,7 +7160,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "B",
+    "tier": "A",
     "keywords": [
       {
         "id": "flexible",
@@ -7176,7 +7181,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "S",
+    "tier": "A",
     "keywords": [
       {
         "id": "flexible",
@@ -7218,7 +7223,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "D",
+    "tier": "S",
     "keywords": [
       {
         "id": "orbs",
@@ -7260,7 +7265,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "D",
+    "tier": "C",
     "keywords": [
       {
         "id": "lightning",
@@ -7302,7 +7307,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "C",
+    "tier": "D",
     "keywords": [
       {
         "id": "lightning",
@@ -7323,7 +7328,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "status",
@@ -7349,7 +7354,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "A",
+    "tier": "B",
     "keywords": [
       {
         "id": "flexible",
@@ -7412,7 +7417,7 @@
     "characters": [
       "defect"
     ],
-    "tier": "B",
+    "tier": "C",
     "keywords": [
       {
         "id": "flexible",
@@ -7448,7 +7453,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "C",
+    "tier": "B",
     "keywords": [
       {
         "id": "doom",
@@ -7469,7 +7474,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "B",
+    "tier": "C",
     "keywords": [
       {
         "id": "souls",
@@ -7516,7 +7521,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "C",
+    "tier": "S",
     "keywords": [
       {
         "id": "ethereal",
@@ -7542,7 +7547,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "B",
+    "tier": "S",
     "keywords": [
       {
         "id": "flexible",
@@ -7584,7 +7589,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": null,
+    "tier": "B",
     "keywords": [
       {
         "id": "souls",
@@ -7610,7 +7615,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "C",
+    "tier": "S",
     "keywords": [
       {
         "id": "souls",
@@ -7636,7 +7641,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "S",
+    "tier": "B",
     "keywords": [
       {
         "id": "flexible",
@@ -7678,7 +7683,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "doom",
@@ -7699,7 +7704,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "flexible",
@@ -7792,7 +7797,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "souls",
@@ -7839,7 +7844,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "A",
+    "tier": "D",
     "keywords": [
       {
         "id": "osty",
@@ -7860,7 +7865,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "osty",
@@ -7901,7 +7906,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "A",
+    "tier": "S",
     "keywords": [
       {
         "id": "flexible",
@@ -7969,7 +7974,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "A",
+    "tier": "C",
     "keywords": [
       {
         "id": "osty",
@@ -7990,7 +7995,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "doom",
@@ -8011,7 +8016,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "A",
+    "tier": "B",
     "keywords": [
       {
         "id": "ethereal",
@@ -8099,7 +8104,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "A",
+    "tier": "C",
     "keywords": [
       {
         "id": "osty",
@@ -8120,7 +8125,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "A",
+    "tier": "S",
     "keywords": [
       {
         "id": "osty",
@@ -8141,11 +8146,16 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "D",
+    "tier": "S",
     "keywords": [
       {
-        "id": "build-around",
-        "label": "Build-Around",
+        "id": "doom",
+        "label": "Doom",
+        "category": "tag"
+      },
+      {
+        "id": "flexible",
+        "label": "Flexible",
         "category": "tag"
       }
     ],
@@ -8162,7 +8172,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "B",
+    "tier": "C",
     "keywords": [
       {
         "id": "souls",
@@ -8209,7 +8219,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "A",
+    "tier": "B",
     "keywords": [
       {
         "id": "osty",
@@ -8230,7 +8240,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "S",
+    "tier": "B",
     "keywords": [
       {
         "id": "souls",
@@ -8277,7 +8287,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": null,
+    "tier": "S",
     "keywords": [
       {
         "id": "osty",
@@ -8303,7 +8313,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "doom",
@@ -8324,7 +8334,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "A",
+    "tier": "D",
     "keywords": [
       {
         "id": "osty",
@@ -8345,7 +8355,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "D",
+    "tier": "S",
     "keywords": [
       {
         "id": "build-around",
@@ -8366,7 +8376,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "B",
+    "tier": "C",
     "keywords": [
       {
         "id": "osty",
@@ -8413,7 +8423,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "C",
+    "tier": "S",
     "keywords": [
       {
         "id": "ethereal",
@@ -8434,7 +8444,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "B",
+    "tier": "C",
     "keywords": [
       {
         "id": "osty",
@@ -8476,7 +8486,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "C",
+    "tier": "A",
     "keywords": [
       {
         "id": "flexible",
@@ -8497,7 +8507,7 @@
     "characters": [
       "necrobinder"
     ],
-    "tier": "S",
+    "tier": "A",
     "keywords": [
       {
         "id": "souls",
